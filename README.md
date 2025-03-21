@@ -28,6 +28,9 @@ O objetivo principal é praticar conceitos fundamentais de lógica de programaç
 - Embaralhar a lista de amigos
 - Exibir os pares sorteados
 
+## 🔗 Link do Projeto
+[Acesse o Amigo Secreto](https://amigo-secreto-nine-theta.vercel.app/)
+
 ---
 
 ✍️ Desenvolvido durante os estudos na Alura.
